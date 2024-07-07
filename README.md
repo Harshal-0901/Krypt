@@ -1,4 +1,5 @@
 # Krypt - Web 3.0 Blockchain Application
+A modern Web 3.0 Blockchain Application which transfers crypto-currency from one account to another seemlessly.
 
 ![Screenshot 2024-07-07 124905](https://github.com/Harshal-0901/Krypt/assets/141266067/7535fedb-81b7-4472-8e3e-32bd145d82fb)
 ![Screenshot 2024-07-07 125117](https://github.com/Harshal-0901/Krypt/assets/141266067/d8c7653f-fbdd-4a5b-8d1f-6a3dac9c1e09)
